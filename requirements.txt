@@ -1,6 +1,5 @@
 lxml
 pandas
 requests
-sqlite3
 datetime
 io
