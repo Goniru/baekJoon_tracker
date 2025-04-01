@@ -2,4 +2,3 @@ lxml
 pandas
 requests
 datetime
-io
