@@ -5,6 +5,9 @@ import sqlite3
 from datetime import datetime, timedelta
 from io import StringIO
 
+if st.button("새로고침"):
+    st.rerun()
+
 # 백준 그룹 랭킹 URL
 url = 'https://www.acmicpc.net/group/ranklist/23100'
 headers = {
